@@ -1,1 +1,52 @@
+body {
+    background-color: red;
+}
 
+.header {
+    background-color: orange;
+    font-size: x-large;
+}
+
+.card {
+    width: 60%;
+    margin: 0 auto;
+    background-color:rgba(238, 143, 160, 0.699);  
+    
+}
+
+p{
+    color:green;
+    font-size: 18px;
+}
+
+.crystal {
+    height: 100px;
+    width: 70px;
+    float:left;
+}
+
+.crystalContainer{
+    margin: 0 auto;
+    background-color:rgba(0, 0, 0, 0);
+}
+
+.numberContainer{
+    height:100px;
+    width:40%;
+    background: green;
+    margin:0 5%;
+    font-weight: 400;
+    font-size: 60px;
+    padding-top:10px;
+    text-align: center;
+}
+
+#counter{
+    font-size:20px;
+}
+
+#score{
+    height: 100px;
+    text-align: center;
+    font-size:50px;
+}
